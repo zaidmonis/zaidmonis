@@ -14,7 +14,7 @@ At this point, I have worked with
 
 | Programming Languages | Web FrameWorks | Web Technologies        | JavaScript FrameWorks | Databases | Cloud Technology | Design Systems      |
 | ------                | ------         | ------                  | ------                | ------    | ------           | ------              |
-| Python                | Django         | HTML + SCSS/CSS         | Vue.js                | PostgreSQL| Firebase         | Figma (Prototyping) |
+| Python                | Django         | HTML + SCSS/CSS         | Vue.js                | MSSQL     | Firebase         | Figma (Prototyping) |
 | Java                  | Express.js     | JavaScript / TypeScript | React.js              | MongoDB   | AWS              | Material Design     |
 
 
