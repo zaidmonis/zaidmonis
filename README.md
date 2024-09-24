@@ -1,4 +1,4 @@
-# Somebody who loves to a fail a lot, But never gets afraid of failures.
+# Somebody who loves to fail a lot, But never gets afraid of failures.
 
 > Hello World, This is Mohd Zaid.
 
