@@ -1,6 +1,6 @@
 # Someone who learns fast, adapts faster, and keeps building.
 
-> Hello World 👋  
+> Hello World   
 > I’m **Mohd Zaid** — a backend-focused software engineer who enjoys turning messy problems into clean, reliable systems.
 
 ## TL;DR Version  
@@ -44,21 +44,21 @@ There’s something deeply satisfying about seeing a system come alive — an AP
 
 ---
 
-### 🚀 Passionate Developer
+### Passionate Developer
 I value **consistency over intensity**. Learning every day, improving incrementally, and staying curious has taken me much further than chasing shortcuts ever could.
 
 I’ve spent countless hours experimenting, refactoring, and rethinking solutions — not because I had to, but because I genuinely enjoy the process.
 
 ---
 
-### 🧠 Problem Solver
+### Problem Solver
 From debugging production issues to designing new services from scratch, I enjoy breaking down problems, understanding constraints, and finding solutions that are **simple, effective, and sustainable**.
 
 I don’t mind starting from zero if that’s what it takes to do things right.
 
 ---
 
-### 🌍 Explorer by Nature
+### Explorer by Nature
 Switching between technologies has taught me an important lesson:
 
 > Most systems share the same core ideas — only the tools and syntax change.
@@ -67,14 +67,14 @@ This mindset helps me stay flexible and focus on **fundamentals**, whether it’
 
 ---
 
-### 🏗 Aspiring System Designer
+### Aspiring System Designer
 I actively push myself toward **end-to-end ownership** — thinking beyond just code and into scalability, performance, observability, and long-term maintenance.
 
 Every project is an opportunity to design something a little better than before.
 
 ---
 
-### ✨ Clean Code Enthusiast
+### Clean Code Enthusiast
 Readable, well-structured code matters to me. I believe code should:
 - Explain *what* it does without needing comments
 - Be easy to change without fear
@@ -84,7 +84,7 @@ Clean code isn’t perfection — it’s respect for future developers (includin
 
 ---
 
-### 🔁 Embracing Failures
+### Embracing Failures
 Failure has been one of my best teachers.
 
 I’ve had ideas rejected, designs reworked, and assumptions proven wrong. Each time, I learned something valuable — about technology, about people, and about myself.
